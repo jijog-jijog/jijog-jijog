@@ -19,7 +19,7 @@
 ## Fun Fact 🎈:
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<!-- <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" /> -->
 
 
 <br>- 🔭 <b>Web developer<b><br>  - 📫 How to reach me <b>jijorzgeorge@gmail.com<b><br>- 📚 I'm currently learning <b>JavaScript<b><br>- 🖥️  See my portfolio at <b>[CLICK MEE...](https://jijog-jijog.github.io/Jijog-Portfolio/)<b></p><br>
@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ## 🖥️ Skills:
 ```Good and wanted to be good at✨```
