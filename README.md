@@ -44,19 +44,25 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jijog-jijog&show_icons=true&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jijog-jijog&stroke=a855f7&background=000000&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" height="180" />
+  <!-- GitHub Readme Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jijog-jijog&show_icons=true&count_private=true&title_color=22c55e&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img height="180" src="https://streak-stats.demolab.com?user=jijog-jijog&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jijog-jijog&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jijog-jijog&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijog-jijog&layout=compact&title_color=22c55e&text_color=a855f7&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijog-jijog&layout=compact&title_color=22c55e&text_color=a855f7&bg_color=000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
